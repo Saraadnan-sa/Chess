@@ -1,0 +1,14 @@
+Chess is a two-player strategy game played on a checkered gameboard.The gameboard consists of 64 squares arranged in an 8x8 grid. 
+Each player starts the game with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns.\n")
+
+Following are the rules of chess : 
+1) Choose the row and column in which your chess piece is placed.
+2) Enter the row first and then column without any space.
+3) After that, Available moves and Eliminate chess piece moves will be shown on your screen.
+4) Now enter the place where you want to move the chess piece.
+5) Again enter the row first and then column without any space.
+6) If you enter the right position then press enter and your chess piece will go there.
+7) If you enter wrong position then the program shows a message "Enter the Valid Position".
+8) After it, you have to enter the correct position.
+
+                 Now you can enjoy the game :)
