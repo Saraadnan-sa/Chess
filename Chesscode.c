@@ -1058,7 +1058,7 @@ void bishop2(int r1, int c1) // Movement of Bishop2
     int ulr = 0, ulc = 0, drr = 0, drc = 0, urr = 0, urc = 0, dlr = 0, dlc = 0;
 
     printf("\n\n\t\t>>>Available Positions are: ");
-
+// hhhhh
     a = 1, b = 1;
 
     while (board[r1 - a][c1 + b] == ' ')
